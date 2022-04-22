@@ -8,7 +8,7 @@
   - Svelte-kit
   - BabylonJS
 - 📫 How to reach me
-  - https://linkedin.com/robluton
+  - (LinkedIn)[https://www.linkedin.com/in/robluton/]
 
 <!---
 robluton/robluton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
